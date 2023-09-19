@@ -9,11 +9,11 @@
 # 2. 활용한 인공지능 API
 *** 
 ### 2.1 활용한 API
-google speech to text, novel ai
+google speech to text, novel ai, dall E
 
  speech to text: 사용자가 하는 말을 글자로 바꾸고, 글자를 영어로 번역
 
- novel ai: 사용자가 입력한 글자를 토대로 그림을 그림
+dall E 2, novel ai: 사용자가 입력한 글자를 토대로 그림을 그림
 
 
 ## 2.2 API의 입력과 출력
