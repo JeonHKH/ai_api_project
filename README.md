@@ -16,6 +16,15 @@ google speech to text, novel ai, dall E
 dall E 2, novel ai: 사용자가 입력한 글자를 토대로 그림을 그림
 
 
-## 2.2 API의 입력과 출력
+## 4컷만화 줄거리.
 ***
+1
+
+2
+
+3
+
+4
+
+
 
